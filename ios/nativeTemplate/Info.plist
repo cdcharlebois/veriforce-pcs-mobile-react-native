@@ -7,10 +7,10 @@
 		<dict>
 			<key>CFBundleURLSchemes</key>
 			<array>
-				<string>makeitnative</string>
+				<string>vfpcs</string>
 			</array>
 			<key>CFBundleURLName</key>
-			<string>makeitnative</string>
+			<string>vfpcs</string>
 		</dict>
 	</array>
 	<key>LSApplicationQueriesSchemes</key>
