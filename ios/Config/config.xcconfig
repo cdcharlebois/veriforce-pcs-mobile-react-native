@@ -4,7 +4,7 @@ BUNDLE_DISPLAY_NAME = VF-PCS
 BUNDLE_IDENTIFIER = com.vfpcs.mobile
 
 //local
-RUNTIME_URL = http:\/\/192.168.86.86:8080
+//RUNTIME_URL = http:\/\/192.168.86.86:8080
 
 //dev
-//RUNTIME_URL = https:\/\/pcs.dev-veriforce.com
+RUNTIME_URL = https:\/\/pcs.dev-veriforce.com
