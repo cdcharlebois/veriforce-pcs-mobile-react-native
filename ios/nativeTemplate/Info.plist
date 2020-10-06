@@ -2,24 +2,6 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>CodePushDeploymentKey</key>
-	<string>ADB8f-NNEquqJk1OX0IjEK0iXIn8S9kyAYSaq</string>
-	<key>CFBundleURLTypes</key>
-	<array>
-		<dict>
-			<key>CFBundleURLSchemes</key>
-			<array>
-				<string>vfpcs</string>
-			</array>
-			<key>CFBundleURLName</key>
-			<string>vfpcs</string>
-		</dict>
-	</array>
-	<key>LSApplicationQueriesSchemes</key>
-	<array>
-		<string>mailto</string>
-		<string>tel</string>
-	</array>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleDisplayName</key>
@@ -38,10 +20,26 @@
 	<string>0.0.0</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
+	<key>CFBundleURLTypes</key>
+	<array>
+		<dict>
+			<key>CFBundleURLName</key>
+			<string>vfpcs</string>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>vfpcs</string>
+			</array>
+		</dict>
+	</array>
 	<key>CFBundleVersion</key>
 	<string>2</string>
 	<key>CodePushKey</key>
 	<string>ADB8f-NNEquqJk1OX0IjEK0iXIn8S9kyAYSaq</string>
+	<key>LSApplicationQueriesSchemes</key>
+	<array>
+		<string>mailto</string>
+		<string>tel</string>
+	</array>
 	<key>LSRequiresIPhoneOS</key>
 	<true/>
 	<key>NSAppTransportSecurity</key>
@@ -67,11 +65,11 @@
 	<string>The camera can be used to open apps by scanning a QR code.</string>
 	<key>NSFaceIDUsageDescription</key>
 	<string>Enabling Face ID allows you quick and secure access to your account.</string>
+	<key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
+	<string>To use that feature the app needs access to your location.</string>
 	<key>NSLocationAlwaysUsageDescription</key>
 	<string>To use that feature the app needs access to your location.</string>
 	<key>NSLocationWhenInUseUsageDescription</key>
-	<string>To use that feature the app needs access to your location.</string>
-	<key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
 	<string>To use that feature the app needs access to your location.</string>
 	<key>NSMicrophoneUsageDescription</key>
 	<string>To use that feature the app needs access to your microphone.</string>
