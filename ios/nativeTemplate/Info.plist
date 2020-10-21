@@ -39,7 +39,7 @@
 	<key>CFBundleVersion</key>
 	<string>5</string>
 	<key>CodePushKey</key>
-	<string>ADB8f-NNEquqJk1OX0IjEK0iXIn8S9kyAYSaq</string>
+	<string>$(CODEPUSH_KEY)</string>
 	<key>LSRequiresIPhoneOS</key>
 	<true/>
 	<key>NSAppTransportSecurity</key>

@@ -11,3 +11,4 @@
 #include "Pods/Target Support Files/Pods-nativeTemplate/Pods-nativeTemplate.release-beta.xcconfig"
 #include "config.xcconfig"
 RUNTIME_URL = https:\/\/pcs.beta-veriforce.com
+CODEPUSH_KEY = iIKQ70kPV9ZuVtiOt4vS0Slwl3CJISeHtw62c
