@@ -3,4 +3,4 @@ PRODUCT_BUNDLE_IDENTIFIER = $(BUNDLE_IDENTIFIER)$(BUNDLE_IDENTIFIER_APPEND)
 BUNDLE_DISPLAY_NAME = VF-PCS
 BUNDLE_IDENTIFIER = com.vfpcs.mobile
 
-RUNTIME_URL = https:\/\/pcs.dev-veriforce.com
+//RUNTIME_URL = https:\/\/pcs.dev-veriforce.com

@@ -1,0 +1,13 @@
+//
+//  Release-Beta.xcconfig
+//  nativeTemplate
+//
+//  Created by Conner Charlebois on 10/21/20.
+//  Copyright © 2020 Facebook. All rights reserved.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+#include "Pods/Target Support Files/Pods-nativeTemplate/Pods-nativeTemplate.release-beta.xcconfig"
+#include "config.xcconfig"
+RUNTIME_URL = https:\/\/pcs.beta-veriforce.com
