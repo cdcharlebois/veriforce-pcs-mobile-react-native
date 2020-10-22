@@ -46,8 +46,8 @@
 
 /* Begin PBXFileReference section */
 		11502903429AC2E6E69E6482 /* libPods-dev.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-dev.a"; sourceTree = BUILT_PRODUCTS_DIR; };
-		13048E232540AAFA00CDAFBE /* Release-Dev.xcconfig */ = {isa = PBXFileReference; lastKnownFileType = text.xcconfig; path = "Release-Dev.xcconfig"; sourceTree = "<group>"; };
-		13048EDC2540B4C800CDAFBE /* Release-Beta.xcconfig */ = {isa = PBXFileReference; lastKnownFileType = text.xcconfig; path = "Release-Beta.xcconfig"; sourceTree = "<group>"; };
+		131ACE5D2541D0FF00489CE2 /* config.env.dev.xcconfig */ = {isa = PBXFileReference; lastKnownFileType = text.xcconfig; path = config.env.dev.xcconfig; sourceTree = "<group>"; };
+		131ACF162541D2D800489CE2 /* config.env.beta.xcconfig */ = {isa = PBXFileReference; lastKnownFileType = text.xcconfig; path = config.env.beta.xcconfig; sourceTree = "<group>"; };
 		13B07F961A680F5B00A75B9A /* nativeTemplate.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = nativeTemplate.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		13B07FB51A68108700A75B9A /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Images.xcassets; path = nativeTemplate/Images.xcassets; sourceTree = "<group>"; };
 		13B07FB61A68108700A75B9A /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Info.plist; path = nativeTemplate/Info.plist; sourceTree = "<group>"; };
@@ -310,8 +310,8 @@
 				EBC80A6022DF4205007E5F3D /* config.debug.xcconfig */,
 				1A0B3AF223990C2400388BF7 /* config.xcconfig */,
 				EBC80A6122DF42DF007E5F3D /* config.release.xcconfig */,
-				13048E232540AAFA00CDAFBE /* Release-Dev.xcconfig */,
-				13048EDC2540B4C800CDAFBE /* Release-Beta.xcconfig */,
+				131ACE5D2541D0FF00489CE2 /* config.env.dev.xcconfig */,
+				131ACF162541D2D800489CE2 /* config.env.beta.xcconfig */,
 			);
 			path = Config;
 			sourceTree = "<group>";
@@ -670,7 +670,7 @@
 		};
 		13048E212540AA9900CDAFBE /* Release-Dev */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 13048E232540AAFA00CDAFBE /* Release-Dev.xcconfig */;
+			baseConfigurationReference = 131ACE5D2541D0FF00489CE2 /* config.env.dev.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
@@ -840,7 +840,7 @@
 		};
 		13048EDE2540B4E600CDAFBE /* Release-Beta */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 13048EDC2540B4C800CDAFBE /* Release-Beta.xcconfig */;
+			baseConfigurationReference = 131ACF162541D2D800489CE2 /* config.env.beta.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
