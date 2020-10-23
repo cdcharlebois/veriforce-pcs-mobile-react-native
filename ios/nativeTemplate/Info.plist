@@ -7,10 +7,10 @@
 		<dict>
 			<key>CFBundleURLSchemes</key>
 			<array>
-				<string>vfpcs</string>
+				<string>$(URL_SCHEME)</string>
 			</array>
 			<key>CFBundleURLName</key>
-			<string>vfpcs</string>
+			<string>$(URL_SCHEME)</string>
 		</dict>
 	</array>
 	<key>LSApplicationQueriesSchemes</key>
