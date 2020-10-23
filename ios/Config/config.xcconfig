@@ -4,3 +4,5 @@ BUNDLE_DISPLAY_NAME = VF-PCS
 BUNDLE_IDENTIFIER = com.vfpcs.mobile
 
 //RUNTIME_URL = https:\/\/pcs.dev-veriforce.com
+URL_SCHEME=vfpcs
+VERSION_NUMBER=0.0.3.local
