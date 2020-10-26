@@ -1,7 +1,7 @@
-PRODUCT_BUNDLE_IDENTIFIER = com.vfpcs.mobile.dev
-BUNDLE_DISPLAY_NAME = VF-PCS.dev
-BUNDLE_IDENTIFIER = com.vfpcs.mobile.dev
-RUNTIME_URL = https:\/\/pcs.dev-veriforce.com
-CODEPUSH_KEY = ADB8f-NNEquqJk1OX0IjEK0iXIn8S9kyAYSaq
-URL_SCHEME=vfpcsdev
-VERSION_NUMBER=0.0.3.dev
+PRODUCT_BUNDLE_IDENTIFIER = com.vfpcs.mobile.beta
+BUNDLE_DISPLAY_NAME = VF-PCS.beta
+BUNDLE_IDENTIFIER = com.vfpcs.mobile.beta
+RUNTIME_URL = https:\/\/pcs.beta-veriforce.com
+CODEPUSH_KEY = iIKQ70kPV9ZuVtiOt4vS0Slwl3CJISeHtw62c
+URL_SCHEME=vfpcsbeta
+VERSION_NUMBER=0.0.3.beta
