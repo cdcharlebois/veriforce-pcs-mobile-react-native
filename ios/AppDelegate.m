@@ -6,6 +6,7 @@
 #import "RNFirebase/RNFirebaseMessaging.h"
 #import "SplashScreenPresenter.h"
 #import "React/RCTLinkingManager.h"
+#import <CodePush/CodePush.h>
 
 @implementation AppDelegate
 
